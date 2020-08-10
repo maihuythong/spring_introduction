@@ -5,7 +5,8 @@
         </encoder>
     </appender>
 
-    <logger name="academy.learnprogramming" level="DEBUG"/>
+    <logger name="citynow.maihuythong" level="DEBUG"/>
+    <logger name="org.springframework" level="DEBUG"/>
 
     <root level="INFO">
         <appender-ref ref="STDOUT"/>
